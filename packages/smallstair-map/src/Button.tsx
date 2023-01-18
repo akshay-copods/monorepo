@@ -5,7 +5,7 @@ export interface ButtonProps {
 }
 
 export function Button(props: ButtonProps) {
-  return <button>Updated 2 new{props.children}</button>;
+  return <button>Updated 2 new{props.children} from branch 1</button>;
 }
 
 Button.displayName = 'Button';
