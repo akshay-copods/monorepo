@@ -1,4 +1,4 @@
-# @bigstair/core
+# @smallstair/core
 
 ## 1.0.6
 

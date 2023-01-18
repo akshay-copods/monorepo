@@ -1,4 +1,4 @@
-# @bigstair/map
+# @smallstair/map
 
 ## 1.0.0
 
