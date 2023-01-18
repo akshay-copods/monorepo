@@ -1,5 +1,17 @@
 # @smallstair/core
 
+## 1.2.0
+
+### Minor Changes
+
+- change 2
+
+## 1.1.0
+
+### Minor Changes
+
+- Test minor bump
+
 ## 1.0.6
 
 ### Patch Changes
