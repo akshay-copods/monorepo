@@ -1,5 +1,11 @@
 # @smallstair/core
 
+## 1.3.0
+
+### Minor Changes
+
+- Updated Button Text
+
 ## 1.2.0
 
 ### Minor Changes
