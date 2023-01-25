@@ -1,5 +1,11 @@
 # @smallstair/core
 
+## 1.4.0
+
+### Minor Changes
+
+- 14036a0: Updated 1 text
+
 ## 1.3.0
 
 ### Minor Changes
